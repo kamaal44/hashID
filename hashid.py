@@ -26,7 +26,7 @@ from collections import namedtuple
 
 __author__  = "c0re"
 __version__ = "3.2.0-dev"
-__github__  = "https://github.com/psypanda/hashID"
+__github__  = "https://github.com/kamaal44/hashID"
 __license__ = "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>"
 __banner__  = "hashID v{0} by {1} ({2})".format(__version__, __author__, __github__)
 
